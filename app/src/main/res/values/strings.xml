@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">SSM</string>
+    <string name="low_stock_warning" translatable="false">
+        Low Stock Warnings (&lt; 4 Units)
+    </string>
+    <string name="login_title" translatable="false">Sales Management System</string>
+    <string name="login_subtitle" translatable="false">Offline-First Shopkeeper Solution</string>
+    <string name="username_hint" translatable="false">Username</string>
+    <string name="password_hint" translatable="false">Password</string>
+    <string name="btn_login" translatable="false">Login</string>
+    <string name="currency_symbol" translatable="false">₹</string>
+    <string name="pending_credits" translatable="false">💳 Pending Credits</string>
+    <string name="bills_amp_history" translatable="false"><![CDATA[🧾 Bills & History]]></string>
+    <string name="welcome_admin" translatable="false">Welcome, Admin!</string>
+    <string name="retail_shop_management_dashboard" translatable="false">Retail Shop Management Dashboard</string>
+    <string name="logout" translatable="false">Logout</string>
+    <string name="today_s_sales" translatable="false">Today\'s Sales</string>
+    <string name="_0_00" translatable="false">₹0.00</string>
+    <string name="total_revenue" translatable="false">Total Revenue</string>
+    <string name="_0_00_2nd" translatable="false">₹0.00</string>
+    <string name="pending_credits_2nd" translatable="false">Pending Credits</string>
+    <string name="_0_00_3rd" translatable="false">₹0.00</string>
+    <string name="low_stock_items" translatable="false">Low Stock Items</string>
+    <string name="_0_items" translatable="false">0 Items</string>
+    <string name="quick_actions" translatable="false">Quick Actions</string>
+    <string name="create_new_bill_invoice" translatable="false">⚡ CREATE NEW BILL / INVOICE</string>
+    <string name="stock_amp_inventory" translatable="false"><![CDATA[📦 Stock & Inventory]]></string>
+    <string name="customers" translatable="false">👥 Customers</string>
+</resources>

@@ -1,0 +1,49 @@
+# Android Studio
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Gradle
+.gradle/
+build/
+*/build/
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+.flattened-pom.xml
+
+# Android
+local.properties
+.externalNativeBuild/
+.cxx/
+
+# Generated files
+captures/
+*.apk
+*.aab
+*.ap_
+*.dex
+
+# Java
+*.class
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IntelliJ
+out/
+
+# Temporary files
+*.tmp
+*.swp
